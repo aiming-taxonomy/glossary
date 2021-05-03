@@ -8,7 +8,7 @@ PRs accepted.
 
 ## License
 
-This project is licensed under the CC-BY-SA-4.0 License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the CC0-1.0 License - see the [LICENSE](LICENSE) file for details
 
 ---
 
