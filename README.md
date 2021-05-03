@@ -18,9 +18,15 @@ This project is licensed under the CC0-1.0 License - see the [LICENSE](LICENSE) 
 
 ## Fundamental ideas
 
+### Aim
+
+The skill to get your crosshair on target and optimise its time on target. It is a combination of skills which include: Mouse control, positioning, movement and many more skill and abilities to achieve the goal.
+
 ### Mouse control
 
-Mouse control is the ability to move the mouse and respectively the crosshair to the position you want smoothly or to stay on target and with speed and many other factors that make good aim and to adapt mouse movements based on visual or audio feedback.
+The ability to move the mouse and respectively the crosshair to the position you want smoothly or to stay on target and with speed and many other factors that make good aim and to adapt mouse movements based on visual or audio feedback.
+
+Also known as: `Raw aim, Mousefeel`
 
 ### Reading skills
 
@@ -29,6 +35,8 @@ Skills that require comprehension around where enemies are and how they are movi
 ### Strafe aim
 
 The ability to change direction of movement of your own character whenever and only when the target you’re aiming at changes direction.
+
+Also known as: `Movement aiming`
 
 ## Category of aim movements
 
