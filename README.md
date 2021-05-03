@@ -38,6 +38,13 @@ The ability to change direction of movement of your own character whenever and o
 
 Also known as: `Movement aiming`
 
+<!--
+Subcategories for strafe aim? 
+-->
+
+<!-- 
+Need a better name for this \/
+-->
 ## Category of aim movements
 
 ### Tracking
@@ -51,3 +58,11 @@ The skill to move your mouse to a target to click/ shoot with a semi-auto weapon
 ### Target switching
 
 The skill to move your mouse to a target then hold and maintain shooting till its destroyed then move on to another target.
+
+
+<!--
+Todo 
+ - More classifications
+ - Reference images? or videos
+ - maybe better formatting to have more and better room for sub classifications
+-->
