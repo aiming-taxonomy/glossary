@@ -42,4 +42,4 @@ The skill to move your mouse to a target to click/ shoot with a semi-auto weapon
 
 ### Target switching
 
-The skill to move your mouse to a target then hold and maintain shooting till its destroyed then move on to another target. 
+The skill to move your mouse to a target then hold and maintain shooting till its destroyed then move on to another target.
