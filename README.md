@@ -1,8 +1,8 @@
 # Aiming Glossary
 
-A glossary for everything aiming 
+A glossary for everything aiming
 
-## Contributing 
+## Contributing
 
 PRs accepted.
 
