@@ -1,6 +1,6 @@
 # Aiming Taxonomy
 
-A taxonomy for everything aiming to provide a good centralized source of definitions and classifications for all topics in aiming and help new people understand the same topics
+An Aim-community driven taxonomy for common understanding of aim concepts
 
 To navigate use the table of contents button in the top left of this box
 
