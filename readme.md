@@ -6,7 +6,7 @@ To navigate use the table of contents button in the top left of this box
 
 ## Contributing
 
-See [contributing.md](contributing.md)
+See [contributing](contributing.md)
 
 ## License
 

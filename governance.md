@@ -1,0 +1,1 @@
+Governance of this project a modified version of the [Meritocratic governance model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel) 
