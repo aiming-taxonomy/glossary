@@ -1,9 +1,9 @@
 ---
 name: Spelling or Grammar Error
 about: Tell us about an error in spelling or grammar
-title: ''
-labels: ''
-assignees: ''
+title: ""
+labels: ""
+assignees: ""
 ---
 
 **Where the Spelling/Grammar error is:**

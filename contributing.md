@@ -18,7 +18,7 @@ This taxonomy is based on defining and classifying aiming concepts so it is impo
 
 #### Spelling or Grammar Error
 
-1. Make a [Issue](https://github.com/aiming-taxonomy/aiming-taxonomy/issues/new/choose/) 
+1. Make a [Issue](https://github.com/aiming-taxonomy/aiming-taxonomy/issues/new/choose/)
 2. Fill the template with the appropriate information
 3. Hit submit and a maintainer will approve and apply the fix or redirect to the discussion topic
 
@@ -30,22 +30,9 @@ to be created
 
 to be created
 
-### Become a Maintainer/ Merger
+### Become a Committer/ Merger
 
-The role of a maintainer/ merger is an important one as its the final say and to implement the communal collective development of these concepts and classifications into the taxonomy.
-
-#### Maintainer/ Merger Criteria
-
-- vested interest in product development, outcome is to have a community-driven common understanding of aim concepts. not someone who would be advancing their own personal interests.
-- decent understanding of git concepts, technical ability to handle merge conflicts, respond to pr's, etc
-- dedicated to continued development of the repo, so pr's and comments don't languish
-
-#### Application
-
-For the moment there is not a formal procedure for application but that is on the road map and will only be giving people this role in this project if they are highly known for all of these criteria 
-
-but there will be a form set up taking applications when there is a more ridged project and the process can be understood by applicants
-
+to be created but for the moment read [governance.md](governance.md)
 
 ## Contributing guidelines for Maintainers/ Mergers
 
