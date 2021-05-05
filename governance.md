@@ -72,21 +72,23 @@ The PMC Chair is a single individual, voted for by the PMC members. Once someone
 
 The PMC Chair has no additional authority over other members of the PMC: the role is one of coordinator and facilitator. The Chair is also expected to ensure that all governance processes are adhered to, and has the casting vote when the project fails to reach consensus.
 
-### Support
+## Support
 
 All participants in the community are encouraged to provide support for new users within the project management infrastructure. This support is provided as a way of growing the community. Those seeking support should recognise that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member. However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels are ideal.
-Contribution process
 
-Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the project mailing list and issue tracker, or might supply patches. The various ways of contributing are described in more detail in [contributing.md](contributing.md).
+## Contribution process
 
-The developer mailing list is the most appropriate place for a contributor to ask for help when making their first contribution.
+Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on [discussion board](https://github.com/aiming-taxonomy/aiming-taxonomy/discussions/) and [issue tracker](https://github.com/aiming-taxonomy/aiming-taxonomy/issues/), or might supply patches. The various ways of contributing are described in more detail in [contributing.md](contributing.md).
 
-### Decision making process
+The [discussion board](https://github.com/aiming-taxonomy/aiming-taxonomy/discussions/) is the most appropriate place for a contributor to ask for help when making their first contribution.
 
-Decisions about the future of the project are made through discussion with all members of the community, from the newest user to the most experienced PMC member. All non-sensitive project management discussion takes place on the project contributors’ mailing list. Occasionally, sensitive discussion occurs on a private list.
+## Decision making process
+
+Decisions about the future of the project are made through discussion with all members of the community, from the newest user to the most experienced PMC member. All non-sensitive project management discussion takes place on the [discussion board](https://github.com/aiming-taxonomy/aiming-taxonomy/discussions/). Occasionally, sensitive discussion occurs on a private board.
 
 In order to ensure that the project is not bogged down by endless discussion and continual voting, the project operates a policy of lazy consensus. This allows the majority of decisions to be made without resorting to a formal vote.
-Lazy consensus
+
+### Lazy consensus
 
 Decision making typically involves the following steps:
 
@@ -102,6 +104,7 @@ In general, as long as nobody explicitly opposes a proposal or patch, it is reco
 Lazy consensus is a very important concept within the project. It is this process that allows a large group of people to efficiently reach consensus, as someone with no objections to a proposal need not spend time stating their position, and others need not spend time reading such mails.
 
 For lazy consensus to be effective, it is necessary to allow at least 72 hours before assuming that there are no objections to the proposal. This requirement ensures that everyone is given enough time to read, digest and respond to the proposal. This time period is chosen so as to be as inclusive as possible of all participants, regardless of their location and time commitments.
-Voting
+
+### Voting
 
 Not all decisions can be made using lazy consensus. Issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. However, only project committers and/or PMC members (as defined above) have binding votes for the purposes of decision making.
