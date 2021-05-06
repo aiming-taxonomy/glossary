@@ -20,7 +20,7 @@ This project has so many different parts which need you to be apart of like
 
 - Discussion on current and new concept descriptions
 - Participate in votes for changes
-- Become a committer
+- become a committer
 - Help with feedback on the formatting of files, the processes for changes
 - helping new people
 
@@ -37,13 +37,24 @@ This taxonomy is based on defining and classifying aiming concepts so it is impo
 #### New or change a Concept
 
 1. Check if its already one that is defined in this project
-2. if not create a [discussion thread](https://github.com/aiming-taxonomy/aiming-taxonomy/discussions/new) with your proposal _Template to be made_
+2. if not create a [discussion thread](https://github.com/aiming-taxonomy/aiming-taxonomy/discussions/new) with your proposal using this template
+```markdown
+# Concept {insert name} Proposal and Discussion thread
+
+**Name:** {insert name}
+
+**Initial description:** {insert description if found from the resources thread or give a draft description so people know what you are talking about}
+
+**Reason for addition:** {Why do you want this concept and description added to the taxonomy and its uses}
+
+What are your thoughts and how can this be improved and refined
+```
 3. if it is go to the discussion thread of that concept and create a comment explaining your proposal for the change
 4. Decision will be made through the process described in the [decision making process](governance.md#Decision-making-process)
 
 ### Become a Committer/ Merger
 
-to be created but for the moment read [governance.md](governance.md)
+See [governance.md](governance.md#Committers/-Mergers)
 
 ## Contributing guidelines for Committers/ Mergers
 
@@ -51,3 +62,23 @@ to be created but for the moment read [governance.md](governance.md)
 
 - Use [Github Flavoured Markdown](https://github.github.com/gfm/)
 - All Markdown files must be formatted with Prettier for consistency
+
+### Structure of Taxonomy
+
+In alphabetical order based on the concepts name
+
+use this template and structure for concepts and their definitions
+
+```markdown
+
+## Name 1
+
+Definition 1...
+
+## Name 2
+
+Definition 2...
+
+```
+
+This template and structure are subject to change feedback and ideas to be discussed in #5

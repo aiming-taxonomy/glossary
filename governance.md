@@ -112,8 +112,8 @@ Not all decisions can be made using lazy consensus if the discussion is not conc
 
 ## Current members
 
-- **PMC**: Anima(Current Chair), Riddbtw
-- **Committers**: Anima
+- **PMC**: @AnimaFPS, @riddbtw
+- **Committers**: @AnimaFPS
 
 ## Attribution
 
