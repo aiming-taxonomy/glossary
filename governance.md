@@ -29,7 +29,8 @@ In addition to their actions as users, contributors may also find themselves doi
 - identifying requirements
 - assisting with project infrastructure
 - fixing bugs
-- suggesting features, new classifications and new concepts
+- suggesting features
+- suggesting new concepts or changes to concepts
 - giving feedback on things within the current project
 
 Contributors engage with the project through the issue tracker and the discussion board, or by writing or editing documentation. They submit changes to the project itself via patches, which will be considered for inclusion in the project by existing committers (see next section). The [Github discussion pages](https://github.com/aiming-taxonomy/aiming-taxonomy/discussions/) is the most appropriate place to ask for help when making that first contribution.
@@ -62,7 +63,7 @@ A committer who shows an above-average level of contribution to the project, par
 
 The project management committee consists of those individuals identified as ‘project owners’ on the development site. The PMC has additional responsibilities over and above those of a committer. These responsibilities ensure the smooth running of the project. PMC members are expected to review code contributions so that it meets the code of conduct, participate in strategic planning, approve changes to the governance model and manage the copyrights within the project outputs.
 
-Members of the PMC do not have significant authority over other members of the community, although it is the PMC that votes on new committers. It also makes decisions when community consensus cannot be reached. In addition, the PMC has access to the project’s private mailing list and its archives. This list is used for sensitive issues, such as votes for new committers and legal matters that cannot be discussed in public. It is never used for project management or planning.
+Members of the PMC do not have significant authority over other members of the community, although it is the PMC that votes on new committers. It also makes decisions when community consensus cannot be reached. In addition, the PMC has access to the project’s private discussion board and its archives. This board is used for sensitive issues, such as votes for new committers and legal matters that cannot be discussed in public. It is never used for project management or planning.
 
 Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members.
 
@@ -97,7 +98,7 @@ Decision making typically involves the following steps:
 - Vote (if consensus is not reached through discussion)
 - Decision
 
-Any community member can make a proposal for consideration by the community. In order to initiate a discussion about a new idea, they should send an email to the project contributors’ list or submit a patch implementing the idea to the issue tracker (or version-control system if they have commit access). This will prompt a review and, if necessary, a discussion of the idea. The goal of this review and discussion is to gain approval for the contribution. Since most people in the project community have a shared vision, there is often little need for discussion in order to reach consensus.
+Any community member can make a proposal for consideration by the community. In order to initiate a discussion about a new idea, they should add a new post on the ideas category of the discussion board. This will prompt a review and, if necessary, a discussion of the idea. The goal of this review and discussion is to gain approval for the contribution. Since most people in the project community have a shared vision, there is often little need for discussion in order to reach consensus.
 
 In general, as long as nobody explicitly opposes a proposal or patch, it is recognised as having the support of the community. This is called lazy consensus - that is, those who have not stated their opinion explicitly have implicitly agreed to the implementation of the proposal.
 
@@ -107,4 +108,13 @@ For lazy consensus to be effective, it is necessary to allow at least 72 hours b
 
 ### Voting
 
-Not all decisions can be made using lazy consensus. Issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. However, only project committers and/or PMC members (as defined above) have binding votes for the purposes of decision making.
+Not all decisions can be made using lazy consensus if the discussion is not conclusive or the change is to something more sensitive than just a change to the taxonomy. Issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. Votes will be carried out through a comment in the specific discussion thead that the change is related too with reactions or another system to facilitate the moderation of votes. Just like lazy consensus the time for the vote to complete must allow at least 72 hours for the full duration of the vote as a minimum.
+
+## Current members
+
+- **PMC**: Anima(Current Chair), Riddbtw
+- **Committers**: Anima
+
+## Attribution
+
+This governance model was adapted from the [OSS Watch's Meritocratic Governance model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
