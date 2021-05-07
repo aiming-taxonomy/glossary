@@ -98,7 +98,7 @@ Decision making typically involves the following steps:
 - Vote (if consensus is not reached through discussion)
 - Decision
 
-Any community member can make a proposal for consideration by the community. In order to initiate a discussion about a new idea, they should add a new post on the ideas category of the discussion board. This will prompt a review and, if necessary, a discussion of the idea. The goal of this review and discussion is to gain approval for the contribution. Since most people in the project community have a shared vision, there is often little need for discussion in order to reach consensus.
+Any community member can make a proposal for consideration by the community. In order to initiate a discussion about a new idea, they should add a new post on the ideas or concept category of the discussion board. This will prompt a review and, if necessary, a discussion of the idea. The goal of this review and discussion is to gain approval for the contribution. Since most people in the project community have a shared vision, there is often little need for discussion in order to reach consensus.
 
 In general, as long as nobody explicitly opposes a proposal or patch, it is recognised as having the support of the community. This is called lazy consensus - that is, those who have not stated their opinion explicitly have implicitly agreed to the implementation of the proposal.
 
@@ -108,7 +108,25 @@ For lazy consensus to be effective, it is necessary to allow at least 72 hours b
 
 ### Voting
 
-Not all decisions can be made using lazy consensus if the discussion is not conclusive or the change is to something more sensitive than just a change to the taxonomy. Issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. Votes will be carried out through a comment in the specific discussion thead that the change is related too with reactions or another system to facilitate the moderation of votes. Just like lazy consensus the time for the vote to complete must allow at least 72 hours for the full duration of the vote as a minimum.
+Not all decisions can be made using lazy consensus if the discussion is not conclusive or the change is to something more sensitive than just a change to the taxonomy. Issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. Votes will be carried out through a comment in the specific discussion thead that the change is related too with reactions or any other system that is fair to facilitate the moderation of votes. Just like lazy consensus the time for the vote to complete must allow at least 72 hours for the full duration of the vote as a minimum.
+
+#### Voting template for changes or additions of concepts
+
+Once the voting system is called you should use this template and posted into the thread of the respective concept
+
+```markdown
+I propose that the concept {concept name} can be {added|changed} to the taxonomy
+
+**Concept name:** {Name of the concept}
+
+**Concept description:**  {Changed description}
+
+To vote, add a reaction to this message:
+- :thumbsup: for Yes, I support this proposal
+- :thumbsdown: for No, I do not support this proposal (and add your resolution idea in the response thread)
+
+Voting ends at {Time and date of finish in UTC at least 72hours from posting} UTC time.
+```
 
 ## Current members
 

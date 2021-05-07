@@ -41,11 +41,11 @@ This taxonomy is based on defining and classifying aiming concepts so it is impo
 ```markdown
 # Concept {insert name} Proposal and Discussion thread
 
-**Name:** {insert name}
+**Name:** {insert name of concept}
 
 **Initial description:** {insert description if found from the resources thread or give a draft description so people know what you are talking about}
 
-**Reason for addition:** {Why do you want this concept and description added to the taxonomy and its uses}
+**Reason for addition or change:** {Why do you want this concept and description added to the taxonomy and its uses}
 
 What are your thoughts and how can this be improved and refined
 ```
