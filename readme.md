@@ -30,6 +30,8 @@ Moving in the opposite direction as the target you are looking at. Example: They
 
 The skill to move your mouse to a target to click/ shoot with a semi-auto weapon.
 
+Also known as: `Flicking, Snapping`
+
 ## Click-Timing
 
 The process to click and subsequently shoot a semi-automatic weapon when the crosshair goes on to the target
@@ -52,7 +54,8 @@ Also known as: `DPI`
 - 1w2ts reload: Actually the name of the scenario
 - CLSI, CFSI, CFSEI, etc.: “Close Long Strafes Invincible,” “Close Fast Strafes Easy Invincible,” etc.
 - patts, kints, voxts, voxtarget, etc.: “patTargetSwitch,” “kinTargetSwitch,” etc.
-- Pasu:  The name of the guy who requested original 1w5targets pasu scenario but often refers to clicking scenarios with moving dots
+- Pasu: The name of the guy who requested original 1w5targets pasu scenario but often refers to clicking scenarios with moving dots
+- Goated: The scenario is improved in some regard that doesn't fall under the reload, thin, small, harder, easy, etc naming convention
 
 ## Leading
 
@@ -92,9 +95,9 @@ The motion to place your crosshair back onto the target after it falls off and i
 
 Determining the best next series of targets, forming a mental route between targets
 
-## Sensitivity 
+## Sensitivity
 
-A unit that fundamentally describes how much you will turn in-game when you move your mouse an arbitrary distance
+A unit or value that fundamentally describes how much you will turn in-game when you move your mouse an arbitrary distance
 
 ## Static (Dots/Clicking)
 
@@ -112,10 +115,6 @@ Moving from point A to point B quickly
 
 Ability to move the mouse at consistent speed/acceleration (at a consistency determined by your reading)
 
-## Tailing/Trailing
-
-Aiming behind a target’s path (or - if the target is moving - the original position of the target when it was visually selected)
-
 ## (Target) Switching
 
 Moving from point A to point B as soon as possible after completing a hit or kill. Either or both of point A or B can be a static or moving target.
@@ -127,6 +126,12 @@ The skill to maintain your crosshair on a target for a long period of time while
 ## Tracing/Pathing
 
 Moving from point A to point B in a direct line
+
+## Trailing
+
+Aiming behind a target’s path (or - if the target is moving - the original position of the target when it was visually selected)
+
+Also known as: `Tailing`
 
 ## Underflick
 
