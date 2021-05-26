@@ -46,6 +46,20 @@ Counts of a mouse sensor per inch of real life movement
 
 Also known as: `DPI`
 
+## Deathgripping
+
+When you're tensing your grip on your mouse very tightly
+
+Called deathgripping because of the implications of long term use effect's on the wrist and arm muscles and nerves
+
+## Dynamic Targets - up for implementation discussion
+
+A type of training scenario where the target does not move. Often referring to clicking targets
+
+## Evasive - Switching
+
+A sub-category of switching for bots that change direction often
+
 ## Kovaak's Specific Scenario Naming conventions
 
 - Air Nuns: “Air NO UFO NO SKYBOTS”
@@ -71,6 +85,10 @@ The ability to move the mouse and respectively the crosshair to the position you
 
 Also known as: `Raw Aim`
 
+## Microcorrection
+
+A small movement of the mouse to correct the crosshair on to a target due to a lack of complete mouse movement or a lack of movement
+
 ## Overflick
 
 While performing a movement to acquire a target and the crosshair goes beyond the targets location or desired target
@@ -79,17 +97,22 @@ While performing a movement to acquire a target and the crosshair goes beyond th
 
 Guessing where a target is going to be in the near future based on movement patterns
 
+## Precise - Tracking
+
+A sub-category of tracking for targets that are 
+
 ## Reactivity
 
 Determining the change in movement of a target and subsequently reacting to it - specifically, the rate at which you can do this
-
-## Reading (Skills)
-
-Skills that require comprehension around where enemies are and how they are moving to predict or to better identify a target.
+Also a sub-category of tracking for targets that change direction or speed often
 
 ## Reacquisition
 
 The motion to place your crosshair back onto the target after it falls off and is no longer hitting
+
+## Reading (Skills)
+
+Skills that require comprehension around where enemies are and how they are moving to predict or to better identify a target.
 
 ## Routing
 
@@ -109,15 +132,21 @@ The ability to change direction of movement of your own character whenever and o
 
 ## Speed/Acceleration
 
-Moving from point A to point B quickly
+How fast you move your crosshair from point A to point B
 
 ## Smoothness
 
 Ability to move the mouse at consistent speed/acceleration (at a consistency determined by your reading)
 
-## (Target) Switching
+## Switching
 
 Moving from point A to point B as soon as possible after completing a hit or kill. Either or both of point A or B can be a static or moving target.
+
+Also known as: `Target Switching`
+
+## Target Acquisition
+
+The process to acquire a target by sight or more likely to get your crosshair on a target
 
 ## Tracking
 
@@ -125,7 +154,7 @@ The skill to maintain your crosshair on a target for a long period of time while
 
 ## Tracing/Pathing
 
-Moving from point A to point B in a direct line
+How you move your crosshair from point A to point B
 
 ## Trailing
 
