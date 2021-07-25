@@ -54,11 +54,11 @@ Tracking a target by repeatedly correcting to its current position, instead of r
 
 Also known as: `Over-predicting`
 
-## CM/360
+## CM/Rev
 
 A universal method to calculate mouse sensitivity, literally referring to the distance required on your mousepad to perform a 360 degree turn in-game.
 
-Also known as: `CM/rev`
+Also known as: `CM/360`
 
 ## CPI
 
@@ -121,7 +121,7 @@ While performing a movement to acquire a target and the crosshair goes beyond th
 
 ## Predicting
 
-Guessing where a target is going to be in the near future based on movement patterns.
+Guessing where a target is going to be in the near future based on movement patterns, and then adjusting your crosshair to align with your guess.
 
 ## Reactivity
 
@@ -141,7 +141,7 @@ Determining the best next series of targets, forming a mental route between targ
 
 ## Sensitivity
 
-A unit or value that fundamentally describes how much your character model in-game will rotate when you move your mouse an arbitrary distance.
+A unit or value that fundamentally describes how much your field of view will rotate when you move your mouse an arbitrary distance.
 
 ## Smoothness
 
@@ -187,7 +187,7 @@ The process to acquire a target by sight, typically referring to how quickly you
 
 ## Time-to-kill (TTK)
 
-The amount of damage that must be done in order to eliminate a target. Often used in the context of high-ttk (health health) or low-ttk (low health) games.
+The amount of damage that must be done in order to eliminate a target. Often used in the context of high-ttk (high health) or low-ttk (low health) games.
 
 ## Tracking
 
