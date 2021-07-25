@@ -16,7 +16,7 @@ This project is licensed under the CC0-1.0 License - see the [license](license) 
 
 ## Accuracy
 
-Moving from point A to point B precisely.  Numerically describes the amount of error when eliminating targets.
+Moving from point A to point B precisely. Numerically describes the amount of error when eliminating targets.
 
 ## Aim
 
@@ -26,7 +26,7 @@ The skill to get your crosshair on target and optimise its time on target. It is
 
 ## Bots
 
-In aim trainers, these are the targets that are programmed by map creators to perform actions on screen and become the targets that the player eliminates in order to improve their aim. 
+In aim trainers, these are the targets that are programmed by map creators to perform actions on screen and become the targets that the player eliminates in order to improve their aim.
 
 Also known as: `Targets, Dots`
 
@@ -62,7 +62,7 @@ Also known as: `CM/rev`
 
 ## CPI
 
-Counts of a mouse sensor per inch of real life movement.  Generally used to calculate overall mouse sensitivity.
+Counts of a mouse sensor per inch of real life movement. Generally used to calculate overall mouse sensitivity.
 
 Also known as: `DPI`
 
@@ -77,7 +77,7 @@ Also known as: `Overgripping`
 
 ## Flicking
 
-Quickly moving your crosshair to the next target at a high-speed with the intention of landing directly on the target in order to quickly eliminate it.  Often requires microadjustment after the flick due to the speed of the movement resulting in errors.
+Quickly moving your crosshair to the next target at a high-speed with the intention of landing directly on the target in order to quickly eliminate it. Often requires microadjustment after the flick due to the speed of the movement resulting in errors.
 
 ## Hipfire
 
@@ -133,7 +133,7 @@ The motion to place your crosshair back onto the target after it falls off and i
 
 ## Reading (Skills)
 
-Skills that require comprehension around where enemies are and how they are moving to predict or to better identify a target.  Your overall ability to understand where the target is and where they will be based on sensory information.
+Skills that require comprehension around where enemies are and how they are moving to predict or to better identify a target. Your overall ability to understand where the target is and where they will be based on sensory information.
 
 ## Routing
 
@@ -187,7 +187,7 @@ The process to acquire a target by sight, typically referring to how quickly you
 
 ## Time-to-kill (TTK)
 
-The amount of damage that must be done in order to eliminate a target.  Often used in the context of high-ttk (health health) or low-ttk (low health) games.
+The amount of damage that must be done in order to eliminate a target. Often used in the context of high-ttk (health health) or low-ttk (low health) games.
 
 ## Tracking
 
@@ -195,7 +195,7 @@ The skill to maintain your crosshair on a target for a long period of time while
 
 ## Tracking - Reactive
 
-A sub-category of tracking featuring high TTK targets that change direction or speed often, requiring significant reading skills.  In aim trainers, this category usually features bots with random, fast movement patterns and bots that teleport.
+A sub-category of tracking featuring high TTK targets that change direction or speed often, requiring significant reading skills. In aim trainers, this category usually features bots with random, fast movement patterns and bots that teleport.
 
 ## Tracking - Precise
 
