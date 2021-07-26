@@ -20,13 +20,30 @@ Moving from point A to point B precisely. Numerically describes the amount of er
 
 ## Aim
 
-The skill to get your crosshair on target and optimise its time on target. It is a combination of skills which include: Mouse control, positioning, movement and many more skill and abilities to achieve the goal.
+The skill to get your crosshair on target and optimise its time on target. It is a combination of skills which include: [Mouse control](#mouse-control), positioning, movement and many more skill and abilities to achieve the goal.
 
 ## Aim Down Sights (ADS)
 
+An acronym describing the event when you Aim Down Sights which changes the view model, [FOV](#field-of-view-fov)(to a smaller one) and sometimes [sensitivity](#sensitivity)(often to a lower one).
+
+## Aim Trainers Specific Scenario Naming Conventions
+
+- Air Nuns: “Air NO UFO NO SKYBOTS”
+- b180, b180t, etc.: “Bounce 180,” “Bounce 180 Tracking,” etc.
+- 1w6t, 1w6ts, 1w2ts reload, etc.: “1wall 6targets small,” etc.
+- 1w2ts reload: Actually the name of the [scenario](#scenario)
+- CLSI, CFSI, CFSEI, etc.: “Close Long Strafes Invincible,” “Close Fast Strafes Easy Invincible,” etc.
+- patts, kints, voxts, voxtarget, etc.: “patTargetSwitch,” “kinTargetSwitch,” etc.
+- Pasu: The name of the guy who requested original 1w5targets pasu [scenario](#scenario) but often refers to clicking [scenarios](#scenario) with moving dots this also applies to many [scenario](#scenario) name prefixes being related to the creator of the [scenario](#scenario)
+- Goated: The [scenario](#scenario) is improved in some regard that doesn't fall under the reload, thin, small, harder, easy, etc naming convention
+
+## Aim Training
+
+The process to work on your [mouse control](#mouse-control) with specific [scenarios](#scenarios) resulting in better/more consistent [aim](#aim)
+
 ## Bots
 
-In aim trainers, these are the targets that are programmed by map creators to perform actions on screen and become the targets that the player eliminates in order to improve their aim.
+In aim trainers, these are the targets that are programmed by map creators to perform actions on screen and become the targets that the player eliminates in order to improve their [aim](#aim).
 
 Also known as: `Targets, Dots`
 
@@ -38,31 +55,31 @@ Also known as: `Click-timing`
 
 ## Clicking - Static
 
-A type of training scenario featuring targets that do not move which are eliminated with a single click.
+A type of training [scenario](#scenario) featuring targets that do not move which are eliminated with a single click.
 
 Also known as: `Static dots`
 
 ## Clicking - Dynamic
 
-A type of training scenario featuring moving targets that are eliminated with a single click.
+A type of training [scenario](#scenario) featuring moving targets that are eliminated with a single click.
 
 Also known as: `Kinetic, moving dots`
 
 ## Chasing
 
-Tracking a target by repeatedly correcting to its current position, instead of reading its movement and committing to that movement.
+[Tracking](#tracing) a target by repeatedly correcting to its current position, instead of [reading](#reading-skills) its movement and committing to that movement.
 
 Also known as: `Over-predicting`
 
 ## CM/Rev
 
-A universal method to calculate mouse sensitivity, literally referring to the distance required on your mousepad to perform a 360 degree turn in-game.
+A universal method to calculate [mouse sensitivity](#sensitivity), literally referring to the distance required on your mousepad to perform a full revolution/360 degree turn in-game.
 
 Also known as: `CM/360`
 
 ## CPI
 
-Counts of a mouse sensor per inch of real life movement. Generally used to calculate overall mouse sensitivity.
+Counts of a mouse sensor per inch of real life movement. Generally used to calculate overall [mouse sensitivity](#sensitivity).
 
 Also known as: `DPI`
 
@@ -75,45 +92,36 @@ Also known as: `Overgripping`
 
 ## Field of View (FOV)
 
+The extent of the observable world that is seen at any given moment often referring to the angle value of the horizontal or vertical Field of View available to a player.
+
 ## Flicking
 
-Quickly moving your crosshair to the next target at a high-speed with the intention of landing directly on the target in order to quickly eliminate it. Often requires microadjustment after the flick due to the speed of the movement resulting in errors.
+Quickly moving your crosshair to the next target at a high-speed with the intention of landing directly on the target in order to quickly eliminate it. Often requires [microadjustment](#microcorrection) after the [flick](#flicking) due to the speed of the movement resulting in errors.
 
 ## Hipfire
 
-Referring to your FOV and sensitivity while not aiming down sights (ADS).
-
-## Kovaak's Specific Scenario Naming conventions
-
-- Air Nuns: “Air NO UFO NO SKYBOTS”
-- b180, b180t, etc.: “Bounce 180,” “Bounce 180 Tracking,” etc.
-- 1w6t, 1w6ts, 1w2ts reload, etc.: “1wall 6targets small,” etc.
-- 1w2ts reload: Actually the name of the scenario
-- CLSI, CFSI, CFSEI, etc.: “Close Long Strafes Invincible,” “Close Fast Strafes Easy Invincible,” etc.
-- patts, kints, voxts, voxtarget, etc.: “patTargetSwitch,” “kinTargetSwitch,” etc.
-- Pasu: The name of the guy who requested original 1w5targets pasu scenario but often refers to clicking scenarios with moving dots
-- Goated: The scenario is improved in some regard that doesn't fall under the reload, thin, small, harder, easy, etc naming convention
+Referring to your [FOV](#field-of-view-fov) and [sensitivity](#sensitivity) while not [aiming down sights (ADS)](#aim-down-sights-ads).
 
 ## Leading
 
-Aiming in front of the target’s expected path.
+[Aiming](#aim) in front of the target’s expected path.
 
 ## Mouse Control
 
-The ability to move the mouse and respectively the crosshair to the position you want smoothly or to stay on target and with speed and many other factors that make good aim and to adapt mouse movements based on visual or audio feedback.
+The ability to move the mouse and respectively the crosshair to the position you want smoothly or to stay on target and with speed and many other factors that make good [aim](#aim) and to adapt mouse movements based on visual or audio feedback.
 Your overall ability to understand and control the crosshair's position on-screen based on the physical control of your mouse in your hand.
 
 Also known as: `Raw Aim`
 
 ## Microcorrection
 
-A small movement of the mouse to correct the crosshair onto a target due to incorrect crosshair placement, often referring to corrections after flicking.
+A small movement of the mouse to correct the crosshair onto a target due to incorrect crosshair placement, often referring to corrections after [flicking](#flicking).
 
 Also known as: `Microadjusting`
 
 ## Microflick
 
-Quickly flicking between targets over short distances, often in high frequency.
+Quickly [flicking](#flicking) between targets over short distances, often in high frequency.
 
 ## Overflick
 
@@ -133,19 +141,25 @@ The motion to place your crosshair back onto the target after it falls off and i
 
 ## Reading (Skills)
 
-Skills that require comprehension around where enemies are and how they are moving to predict or to better identify a target. Your overall ability to understand where the target is and where they will be based on sensory information.
+Skills/the ability that require comprehension around where enemies are and how they are moving to predict or to better identify a target. Your overall ability to understand where the target is and where they will be based on sensory information.
 
 ## Routing
 
 Determining the best next series of targets, forming a mental route between targets.
 
+## Scenario
+
+A Map/Task that is used when [aim training](#aim-training) consisting of a map and a [bot(s)](#bots)
+
+Also known as `Task, Map`
+
 ## Sensitivity
 
-A unit or value that fundamentally describes how much your field of view will rotate when you move your mouse an arbitrary distance.
+A unit or value that fundamentally describes how much your [field of view](#field-of-view-fov) will rotate when you move your mouse an arbitrary distance.
 
 ## Smoothness
 
-Ability to move the mouse at a controlled and consistent speed/acceleration (at a consistency determined by your reading).
+Ability to move the mouse at a controlled and consistent [speed/acceleration](#speedacceleration) (at a consistency determined by your [reading](#reading-skills)).
 
 ## Speed/Acceleration
 
@@ -153,7 +167,7 @@ How fast you move your crosshair from point A to point B.
 
 ## Strafe aim
 
-The ability to change direction of movement of your own character whenever and only when the target you’re aiming at changes direction.
+The ability to change direction of movement of your own character whenever and only when the target you’re [aiming](#aim) at changes direction.
 
 ## Strafe Aim - Mirroring
 
@@ -163,6 +177,10 @@ Moving in the same direction as the target you are looking at. Example: They mov
 
 Moving in the opposite direction as the target you are looking at. Example: They move right on your screen so you move left and the pattern is the same when they go left.
 
+## Strafe Aim - Half-sideways [Mirroring | Anti-mirroring]
+
+Moving with the standard [strafe aim](#strafe-aim) techniques but has an aspect of forward and backwards movement there are four different variations two for each base technique varying which way to go forward and backwards. Example(Half-sideways Mirroring): They move right on your screen so you move right and backwards then when they go left you go left and forwards.
+
 ## Switching
 
 Moving from point A to point B as soon as possible after completing a hit or kill. Either or both of point A or B can be a static or moving target.
@@ -171,19 +189,19 @@ Also known as: `Target Switching or TS`
 
 ## Switching - Evasive
 
-A sub-category of switching featuring medium TTK targets that frequently change direction or are difficult to track.
+A sub-category of [switching](#switching) featuring medium [TTK](#time-to-kill-ttk) targets that frequently change direction or are difficult to track.
 
 Also known as: `Track TS`
 
 ## Switching - Speed
 
-A sub-category of switching featuring low TTK targets that move slowly and are eliminated in a higher frequency.
+A sub-category of [switching](#switching) featuring low [TTK](#time-to-kill-ttk) targets that move slowly and are eliminated in a higher frequency.
 
 Also known as: `Flick TS`
 
 ## Target Acquisition
 
-The process to acquire a target by sight, typically referring to how quickly you place your crosshair on target after they enter your field of view.
+The process to acquire a target by sight, typically referring to how quickly you place your crosshair on target after they enter your [field of view](#field-of-view-fov).
 
 ## Time-to-kill (TTK)
 
@@ -191,15 +209,15 @@ The amount of damage that must be done in order to eliminate a target. Often use
 
 ## Tracking
 
-The skill to maintain your crosshair on a target for a long period of time while it moves and can reacquire the same target after it changes direction. Often long time-to-kill targets with a high fire-rate weapon.
+The skill to maintain your crosshair on a target for a long period of time while it moves and can reacquire the same target after it changes direction. Often long [time-to-kill](#time-to-kill-ttk) targets with a high fire-rate weapon.
 
 ## Tracking - Reactive
 
-A sub-category of tracking featuring high TTK targets that change direction or speed often, requiring significant reading skills. In aim trainers, this category usually features bots with random, fast movement patterns and bots that teleport.
+A sub-category of [tracking](#tracing) featuring high [TTK](#time-to-kill-ttk) targets that change direction or speed often, requiring significant [reading skills](#reading-skills). In aim trainers, this category usually features bots with random, fast movement patterns and bots that teleport.
 
 ## Tracking - Precise
 
-A sub-category of tracking featuring high TTK targets that move in predictable patterns and challenge your ability to smoothly remain on target in order to do damage.
+A sub-category of [tracking](#tracking) featuring high [TTK](#time-to-kill-ttk) targets that move in predictable patterns and challenge your ability to smoothly remain on target in order to do damage.
 
 Also known as: `Smooth tracking`
 
@@ -211,7 +229,7 @@ Also known as: `Pathing`
 
 ## Trailing
 
-Aiming behind a target’s path (or - if the target is moving - the original position of the target when it was visually selected)
+[Aiming](#aim) behind a target’s path (or - if the target is moving - the original position of the target when it was visually selected)
 
 Also known as: `Tailing`
 
