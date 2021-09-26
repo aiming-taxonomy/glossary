@@ -38,6 +38,7 @@ This taxonomy is based on defining and classifying aiming concepts so it is impo
 
 1. Check if its already one that is defined in this project
 2. if not create a [discussion thread](https://github.com/aiming-taxonomy/aiming-taxonomy/discussions/new) with your proposal using this template
+
 ```markdown
 # Concept {insert name} Proposal and Discussion thread
 
@@ -49,6 +50,7 @@ This taxonomy is based on defining and classifying aiming concepts so it is impo
 
 What are your thoughts and how can this be improved and refined
 ```
+
 3. if it is go to the discussion thread of that concept and create a comment explaining your proposal for the change
 4. Decision will be made through the process described in the [decision making process](governance.md#Decision-making-process)
 
@@ -70,7 +72,6 @@ In alphabetical order based on the concepts name
 use this template and structure for concepts and their definitions
 
 ```markdown
-
 ## Name 1
 
 Definition 1...
@@ -78,7 +79,6 @@ Definition 1...
 ## Name 2
 
 Definition 2...
-
 ```
 
 This template and structure are subject to change feedback and ideas to be discussed in #5
