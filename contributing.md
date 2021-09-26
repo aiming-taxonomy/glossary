@@ -54,7 +54,7 @@ What are your thoughts and how can this be improved and refined
 
 ### Become a Committer/ Merger
 
-See [governance.md](governance.md#committers-mergers))
+See [governance.md](governance.md#committers-mergers)
 
 ## Contributing guidelines for Committers/ Mergers
 

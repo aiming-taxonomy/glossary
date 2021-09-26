@@ -77,6 +77,10 @@ A universal method to calculate [mouse sensitivity](#sensitivity), literally ref
 
 Also known as: `CM/360`
 
+## Crosshair Placement
+
+The ability and the process to put and acquire the correct spot for the crosshair to be situated/placed for a certain/specific situation often to maximize damage uptime/time to damage.
+
 ## CPI
 
 Counts of a mouse sensor per inch of real life movement. Generally used to calculate overall [mouse sensitivity](#sensitivity).
@@ -137,7 +141,7 @@ Determining the change in movement of a target and subsequently reacting to it -
 
 ## Reacquisition
 
-The motion to place your crosshair back onto the target after it falls off and is no longer doing damage.
+The motion to place your crosshair back onto the target after it falls off due to a change of direction or speed by the target or crosshair speed and is no longer doing damage.
 
 ## Reading (Skills)
 
