@@ -141,7 +141,7 @@ Determining the change in movement of a target and subsequently reacting to it -
 
 ## Reacquisition
 
-The motion to place your crosshair back onto the target after it falls off due to a change of direction or speed by the target or crosshair speed and is no longer doing damage.
+The motion to place your crosshair back onto the target after it falls off due to a change of direction or speed by the target or crosshair and the target is no longer receiving damage.
 
 ## Reading (Skills)
 

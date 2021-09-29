@@ -64,6 +64,7 @@ See [governance.md](governance.md#committers-mergers)
 
 - Use [Github Flavoured Markdown](https://github.github.com/gfm/)
 - All Markdown files must be formatted with Prettier for consistency
+- Link definitions of terms used in other definitions
 
 ### Structure of Taxonomy
 
