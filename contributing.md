@@ -37,19 +37,19 @@ This taxonomy is based on defining and classifying aiming concepts so it is impo
 #### New or change a Concept
 
 1. Check if its already one that is defined in this project
-2. if not create a [discussion thread](https://github.com/aiming-taxonomy/aiming-taxonomy/discussions/new) with your proposal using this template
+2. if not create a [discussion thread](https://github.com/aiming-taxonomy/aiming-taxonomy/discussions/new) with your proposal using this template:
 
-```markdown
-# Concept {insert name} Proposal and Discussion thread
+    ```markdown
+    # Concept {insert name} Proposal and Discussion thread
 
-**Name:** {insert name of concept}
+    **Name:** {insert name of concept}
 
-**Initial description:** {insert description if found from the resources thread or give a draft description so people know what you are talking about}
+    **Initial description:** {insert description if found from the resources thread or give a draft description so people know what you are talking about}
 
-**Reason for addition or change:** {Why do you want this concept and description added to the taxonomy and its uses}
+    **Reason for addition or change:** {Why do you want this concept and description added to the taxonomy and its uses}
 
-What are your thoughts and how can this be improved and refined
-```
+    What are your thoughts and how can this be improved and refined
+    ```
 
 3. if it is go to the discussion thread of that concept and create a comment explaining your proposal for the change
 4. Decision will be made through the process described in the [decision making process](governance.md#Decision-making-process)
@@ -64,13 +64,13 @@ See [governance.md](governance.md#committers-mergers)
 
 - Use [Github Flavoured Markdown](https://github.github.com/gfm/)
 - All Markdown files must be formatted with Prettier for consistency
-- Link definitions of terms used in other definitions
+- Link concepts within definitions
 
 ### Structure of Taxonomy
 
 In alphabetical order based on the concepts name
 
-use this template and structure for concepts and their definitions
+use this template and structure for concepts and their definitions:
 
 ```markdown
 ## Name 1
