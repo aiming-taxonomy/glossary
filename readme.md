@@ -79,7 +79,7 @@ Also known as: `CM/360`
 
 ## Crosshair Placement
 
-The ability and the process to put and acquire the correct spot for the crosshair to be situated/placed for a certain/specific situation often to maximize damage uptime/time to damage.
+The process to put and acquire the optimal location for one's crosshair to be placed to maximize damage uptime, time to initial damage, or total damage.
 
 ## CPI
 
