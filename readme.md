@@ -2,7 +2,7 @@
 
 An Aim-community driven taxonomy for common understanding of aim concepts
 
-To navigate use the table of contents button in the top left of this box
+To navigate use the table of contents button in the top left of this box and or `CTRL` + `F` then search with the name or definition.
 
 ## Contributing
 
@@ -40,6 +40,12 @@ An acronym describing the event when you Aim Down Sights which changes the view 
 ## Aim Training
 
 The process to work on your [mouse control](#mouse-control) with specific [scenarios](#scenarios) resulting in better/more consistent [aim](#aim)
+
+## Aim Types
+
+The different categories of movements and techniques used while [aiming](#aim) for different weapon firerates, target size, and target movements. E.g. [Clicking](#clicking), [Switching](#switching, and [Tracking](#tracking).
+
+Also known as: `Aim categories`
 
 ## Bots
 
@@ -83,7 +89,7 @@ The process to put and acquire the optimal location for one's crosshair to be pl
 
 ## CPI
 
-Counts of a mouse sensor per inch of real life movement. Generally used to calculate overall [mouse sensitivity](#sensitivity).
+Counts of a mouse sensor per inch of real life movement.
 
 Also known as: `DPI`
 
@@ -175,15 +181,21 @@ The ability to change direction of movement of your own character whenever and o
 
 ## Strafe Aim - Mirroring
 
-Moving in the same direction as the target you are looking at. Example: They move right on your screen so you move right and the pattern is the same when they go left.
+Moving in the same direction as the target you are looking at. 
+
+Example: They move right on your screen so you move right and the pattern is the same when they go left.
 
 ## Strafe Aim - Anti-mirroring
 
-Moving in the opposite direction as the target you are looking at. Example: They move right on your screen so you move left and the pattern is the same when they go left.
+Moving in the opposite direction as the target you are looking at.
+
+Example: They move right on your screen so you move left and the pattern is the same when they go left.
 
 ## Strafe Aim - Half-sideways [Mirroring | Anti-mirroring]
 
-Moving with the standard [strafe aim](#strafe-aim) techniques but has an aspect of forward and backwards movement there are four different variations two for each base technique varying which way to go forward and backwards. Example(Half-sideways Mirroring): They move right on your screen so you move right and backwards then when they go left you go left and forwards.
+Moving with the standard [strafe aim](#strafe-aim) techniques but has an aspect of forward and backwards movement there are four different variations two for each base technique varying which way to go forward and backwards. 
+
+Example(Half-sideways Mirroring): They move right on your screen so you move right and backwards then when they go left you go left and forwards.
 
 ## Switching
 
