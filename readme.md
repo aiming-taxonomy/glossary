@@ -10,6 +10,8 @@ See [contributing](contributing.md)
 
 ## License
 
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 This project is licensed under the CC0-1.0 License - see the [license](license) file for details
 
 ---
