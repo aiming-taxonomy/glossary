@@ -16,7 +16,7 @@ This project is licensed under the CC0-1.0 License - see the [license](license) 
 
 ## Accuracy
 
-Moving from point A to point B precisely. Numerically describes the amount of error when eliminating targets.
+Moving from point A to point B precisely. Numerically describes the amount of error when eliminating targets(hits/shots fired).
 
 ## Aim
 
@@ -39,11 +39,11 @@ An acronym describing the event when you Aim Down Sights which changes the view 
 
 ## Aim Training
 
-The process to work on your [mouse control](#mouse-control) with specific [scenarios](#scenarios) resulting in better/more consistent [aim](#aim)
+The process to work on your [mouse control](#mouse-control) with specific [scenarios](#scenario) resulting in better/more consistent [aim](#aim)
 
 ## Aim Types
 
-The different categories of movements and techniques used while [aiming](#aim) for different weapon firerates, target size, and target movements. E.g. [Clicking](#clicking), [Switching](#switching, and [Tracking](#tracking).
+The different categories of movements and techniques used while [aiming](#aim) for different weapon firerates, target size, and target movements. E.g. [Clicking](#clicking), [Switching](#switching), and [Tracking](#tracking).
 
 Also known as: `Aim categories`
 
@@ -76,6 +76,10 @@ Also known as: `Kinetic, moving dots`
 [Tracking](#tracing) a target by repeatedly correcting to its current position, instead of [reading](#reading-skills) its movement and committing to that movement.
 
 Also known as: `Over-predicting`
+
+## Cheesing
+
+A category of techniques that are used specifically to raise scores in such a way that it exploites the [scenario](#scenario) design and neglects the use of training for improved in-game performance.
 
 ## CM/Rev
 
