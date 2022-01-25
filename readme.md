@@ -71,7 +71,7 @@ Also known as: `Static dots`
 
 A type of training [scenario](#scenario) featuring moving targets that are eliminated with a single click.
 
-Also known as: `Kinetic, moving dots`
+Also known as: `Kinetic, Moving Dots`
 
 ## Chasing
 
@@ -120,7 +120,7 @@ Quickly moving your crosshair to the next target at a high-speed with the intent
 
 ## Hipfire
 
-Referring to your [FOV](#field-of-view-fov) and [sensitivity](#sensitivity) while not [aiming down sights (ADS)](#aim-down-sights-ads).
+Referring to your [FoV](#field-of-view-fov) and [sensitivity](#sensitivity) while not [aiming down sights (ADS)](#aim-down-sights-ads).
 
 ## Leading
 
@@ -132,6 +132,12 @@ The ability to move the mouse and respectively the crosshair to the position you
 Your overall ability to understand and control the crosshair's position on-screen based on the physical control of your mouse in your hand.
 
 Also known as: `Raw Aim`
+
+## Mouse Centring
+
+The process and skill to pick up and move the mouse to the centre of the mousepad
+
+Also known as: `Resetting, Mouse Resetting, Centring`
 
 ## Microcorrection
 
