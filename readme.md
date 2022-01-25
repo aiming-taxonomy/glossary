@@ -89,6 +89,10 @@ A universal method to calculate [mouse sensitivity](#sensitivity), literally ref
 
 Also known as: `CM/360`
 
+## Crosshair Uptime
+
+The messurement of time that your crosshair remains within the boundries of the target/on target.
+
 ## Crosshair Placement
 
 The process to put and acquire the optimal location for one's crosshair to be placed to maximize damage uptime, time to initial damage, or total damage.
