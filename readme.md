@@ -118,10 +118,6 @@ The extent of the observable world that is seen at any given moment often referr
 
 Quickly moving your crosshair to the next target at a high-speed with the intention of landing directly on the target in order to quickly eliminate it. Often requires [microadjustment](#microcorrection) after the [flick](#flicking) due to the speed of the movement resulting in errors.
 
-## Hand Indepencence
-
-The ability to counteract the effect of strafe movement on your crosshair and perform aiming tasks/skills
-
 ## Hipfire
 
 Referring to your [FoV](#field-of-view-fov) and [sensitivity](#sensitivity) while not [aiming down sights (ADS)](#aim-down-sights-ads).
@@ -152,6 +148,10 @@ Also known as: `Microadjusting`
 ## Microflick
 
 Quickly [flicking](#flicking) between targets over short distances, often in high frequency.
+
+## Movement-Aim Indepencence
+
+The ability to counteract the effect of strafe movement on your crosshair and perform [aiming](#aim) tasks/skills
 
 ## Overflick
 
