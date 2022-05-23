@@ -151,7 +151,7 @@ Quickly [flicking](#flicking) between targets over short distances, often in hig
 
 ## Movement-Aim Indepencence
 
-The ability to counteract the effect of strafe movement on your crosshair and perform [aiming](#aim) tasks/skills
+The ability to counteract the effect of strafe movement on your crosshair while simultaniously performing [aiming](#aim) tasks/skills
 
 ## Overflick
 
