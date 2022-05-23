@@ -209,13 +209,13 @@ Example: They move right on your screen so you move right and the pattern is the
 
 Moving in the opposite direction as the target you are looking at.
 
-Example: They move right on your screen so you move left and the pattern is the same when they go left.
+> Example: They move right on your screen so you move left and the pattern is the same when they go left.
 
 ## Strafe Aim - Half-sideways [Mirroring | Anti-mirroring]
 
 Moving with the standard [strafe aim](#strafe-aim) techniques but has an aspect of forward and backwards movement there are four different variations two for each base technique varying which way to go forward and backwards. 
 
-Example(Half-sideways Mirroring): They move right on your screen so you move right and backwards then when they go left you go left and forwards.
+> Example (Half-sideways Mirroring): They move right on your screen so you move right and backwards then when they go left you go left and forwards.
 
 ## Switching
 
@@ -271,7 +271,7 @@ Also known as: `Tailing`
 
 ## Underflick
 
-While performing a movement to acquire a target and the crosshair lands in front of the targets location or desired placement.
+While performing a movement to [acquire a target](#target-acquisition) and the crosshair lands in front of the targets location or desired placement.
 
 ## Visual Reaction Time (VRT)
 
