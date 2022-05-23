@@ -110,6 +110,10 @@ The term 'deathgrip' comes from the negative health impacts on your arm and wris
 
 Also known as: `Overgripping`
 
+## Edge Tracking
+
+The concept of placing your crosshair on the trailing edge/half of a target's hitbox that moves mostly in 2 oppisite directions.
+
 ## Field of View (FOV)
 
 The extent of the observable world that is seen at any given moment often referring to the angle value of the horizontal or vertical Field of View available to a player.
@@ -163,7 +167,7 @@ Guessing where a target is going to be in the near future based on movement patt
 
 ## Reactivity
 
-Determining the change in movement of a target and subsequently reacting to it - specifically, the rate at which you can do this.
+Determining the change in movement of a target without or with minimal [prediciton](#predicting) and subsequently reacting to it - specifically, the rate at which you can do this.
 
 ## Reacquisition
 
@@ -271,7 +275,9 @@ Also known as: `Tailing`
 
 ## Underflick
 
-While performing a movement to [acquire a target](#target-acquisition) and the crosshair lands in front of the targets location or desired placement.
+While performing a movement to [acquire a target](#target-acquisition) and the crosshair lands short of the targets location or desired placement.
+
+Also known as: `Underaiming`
 
 ## Visual Reaction Time (VRT)
 
