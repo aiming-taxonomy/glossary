@@ -53,7 +53,7 @@ Also known as: `Aim categories`
 
 In aim trainers, these are the targets that are programmed by map creators to perform actions on screen and become the targets that the player eliminates in order to improve their [aim](#aim).
 
-Also known as: `Targets, Dots`
+Also known as: `Targets`, `Dots`
 
 ## Clicking
 
@@ -71,7 +71,7 @@ Also known as: `Static dots`
 
 A type of training [scenario](#scenario) featuring moving targets that are eliminated with a single click.
 
-Also known as: `Kinetic, Moving Dots`
+Also known as: `Kinetic`, `Moving Dots`
 
 ## Chasing
 
@@ -141,7 +141,7 @@ Also known as: `Raw Aim`
 
 The process and skill to pick up and move the mouse to the centre of the mousepad
 
-Also known as: `Resetting, Mouse Resetting, Centring`
+Also known as: `Resetting`, `Mouse Resetting`, `Centring`
 
 ## Microcorrection
 
@@ -185,7 +185,7 @@ Determining the best next series of targets, forming a mental route between targ
 
 A Map/Task that is used when [aim training](#aim-training) consisting of a map and a [bot(s)](#bots)
 
-Also known as `Task, Map`
+Also known as `Task`, `Map`
 
 ## Sensitivity
 
@@ -225,7 +225,7 @@ Moving with the standard [strafe aim](#strafe-aim) techniques but has an aspect 
 
 Moving from point A to point B as soon as possible after completing a hit or kill. Either or both of point A or B can be a static or moving target.
 
-Also known as: `Target Switching or TS`
+Also known as: `Target Switching` or `TS`
 
 ## Switching - Evasive
 
